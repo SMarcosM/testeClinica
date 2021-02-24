@@ -1,0 +1,15 @@
+SMAP
+selecionar_005fespecialidades_jsp.java
+JSP
+*S JSP
+*F
++ 0 selecionar_especialidades.jsp
+selecionar_especialidades.jsp
+*L
+5,6:46
+10:51,10
+11:61,9
+12,7:70
+19,32:78
+50,7:110
+*E
